@@ -1,8 +1,7 @@
-# linux for the sm t220
-a this project will focus on the sm t220
-you need the android 14 binary
-may not be bootable.         
-downloads        
+#android 17 gsi for the smt220 may not be bootable do not try for main use.
+
+download
 
 
 https://github.com/gta7lite/teamwin_device_samsung_gta7lite/releases/tag/v2.2
+
